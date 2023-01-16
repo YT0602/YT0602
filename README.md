@@ -25,3 +25,4 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytytyt0427)](https://solved.ac/ytytyt0427)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YT0602&show_icons=true&include_all_commits=true&bg_color=151515&text_color=9f9f9f)](https://github.com/YT0602/github-readme-stats)

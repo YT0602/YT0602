@@ -19,5 +19,9 @@
 - 경북대학교 졸업 (2016.03 ~ 2023.02) 🏫
 - SSAFY_9th (2023.01 ~ ing) ![ssafy Badge](https://img.shields.io/badge/-SSAFY-blue)
 
+
+ <br>
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytytyt0427)](https://solved.ac/ytytyt0427)

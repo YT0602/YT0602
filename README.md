@@ -13,15 +13,21 @@
 <hr>
 
 ## 🛠 Tech Stack
+
+<div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
+</div>
+<div>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+</div>
+<div>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<div>
 
-<br>
 <hr>
 
 ## 📚 History

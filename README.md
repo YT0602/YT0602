@@ -10,13 +10,19 @@
 연락망 </br>
 📬 E-mail: ![Naver Badge](https://img.shields.io/badge/dudxo7721%40naver.com-NAVER-brightgreen)
 
-
+<hr>
 
 ## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/> ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&style=flat-square&logo=Vue.js&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-
+<br>
+<hr>
 
 ## 📚 History
 - 경북대학교 졸업 (2016.03 ~ 2023.02) 🏫
@@ -24,7 +30,7 @@
 
 
  <br>
-
+<hr>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ytytyt0427)](https://solved.ac/ytytyt0427)

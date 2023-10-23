@@ -8,7 +8,10 @@
 
 
 연락망 </br>
-📬 E-mail: ![Naver Badge](https://img.shields.io/badge/dudxo7721%40naver.com-NAVER-brightgreen)
+📬 E-mail : ![Naver Badge](https://img.shields.io/badge/dudxo7721%40naver.com-NAVER-brightgreen) <br>
+Portfoilo : [![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)](https://lemon-baseball-d18.notion.site/Backend-f819c7979dd34d1799a6eaac3110af99?pvs=4](https://lemon-baseball-d18.notion.site/Backend-f819c7979dd34d1799a6eaac3110af99?pvs=4))
+
+
 
 <hr>
 
@@ -23,10 +26,16 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 </div>
 <div>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/-Redis-red?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/-Kafka-black?style=for-the-badge&logo=apache-kafka&logoColor=white">
+<img src="https://img.shields.io/badge/-Elasticsearch-34b4a7?style=for-the-badge&logo=elasticsearch&logoColor=f0bf1b">
+</div>
 <div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-0b9dec?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
 
 <hr>
 
